@@ -6,4 +6,3 @@ COPY        node_modules/ /app/node_modules/
 COPY        run.sh /
 ENTRYPOINT  ["bash", "/run.sh"]
 
-hello kiran
